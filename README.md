@@ -90,9 +90,3 @@ npm start
 
 ---
 
-## Contact
-For any issues or inquiries, contact:
-- **Your Name**
-- **Your Email**
-- **GitHub:** [your-username](https://github.com/your-username)
-
