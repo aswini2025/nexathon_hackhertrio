@@ -1,4 +1,4 @@
-# Blood Test Analyzer
+# Blood Test Analyzer (Hackathon Idea)
 
 This project is a **Blood Test Analyzer** built using **React, Node.js, Express, and MySQL**. It allows users to submit their blood test results through a form and stores the data in a MySQL database for analysis.
 
